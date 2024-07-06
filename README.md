@@ -27,4 +27,21 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ## 📂 Repository Structure
 
+```plaintext.
+├── T20_2024_Cricket_World_Cup_Analysis/
+│   ├── data/
+│   ├── analysis.ipynb
+│   ├── visualizations/
+│   └── README.md
+├── Stock_Market_RSI_MA_Analysis/
+│   ├── synthetic_data_generation.ipynb
+│   ├── analysis.ipynb
+│   ├── visualizations/
+│   └── README.md
+├── Asset_Allocation_Strategy/
+│   ├── data/
+│   ├── analysis.ipynb
+│   ├── visualizations/
+│   └── README.md
+└── README.md
 
