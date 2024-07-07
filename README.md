@@ -1,4 +1,4 @@
-# 📊 Mahe's Data Analysis Portfolio
+# 📊 Mahe's Data Analytics Portfolio
 
 Welcome to my data analysis portfolio! This repository showcases a collection of my data-driven projects, each demonstrating my skills in data analysis, visualization, and interpretation. Explore the projects below and feel free to reach out if you have any questions or feedback.
 
