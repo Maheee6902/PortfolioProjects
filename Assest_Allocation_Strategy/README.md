@@ -1,6 +1,7 @@
 # Asset Allocation Strategy :
 ## Project Overview
 - This project analyzes various asset allocation strategies and their performance during market crashes. The data is retrieved from a SQLite database, and visualizations are created to compare the annualized returns of different strategies and assets.
+- The analysis of market returns during crashes in this project is inspired by data and insights from a renowned YouTube content creator. His work provided valuable information that helped me shape the understanding of strategy performance in turbulent market conditions. This is his Youtube Channel Link...Go Check it out if you are intrested in finance or market related contents. [Channel Link.](http://www.youtube.com/@shankarnath)
 
 ## **Setup**
 - Clone the repository.
