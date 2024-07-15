@@ -11,7 +11,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 - **Performance Metrics**: 🏅 Analyze team and player performances using various metrics.
 - **Visualizations**: 📊 Create insightful visualizations to represent match outcomes, player stats, and overall tournament trends.
   
-## **Database And Tools :**
+## **Database And Tools 🛠️:**
 - Kaggle
 - Python
 - Pandas
@@ -23,9 +23,9 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 ## **Description**:
 - **Asset Allocation**: 💼 Compare conservative, income, balanced, growth, and aggressive asset allocation strategies.
 - **Market Returns**: 📅 Analyze and visualize the annualized returns of these strategies compared to the market.
-- **Visualizations**: 🎨 Utilize data visualization techniques to clearly present the performance and risk associated with each strategy.
+- **Visualizations**: 📊  Utilize data visualization techniques to clearly present the performance and risk associated with each strategy.
 
-## **Database And Tools :**
+## **Database And Tools 🛠️:**
 - SQL
 - Python
 - Pandas
@@ -36,11 +36,10 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 ### 3. 📈 Stock Market Analysis Using RSI and Moving Averages (MA 20/50)
 
 ## **Description**:
-- **RSI Calculation**: 📉 Implement the Relative Strength Index (RSI) to identify overbought and oversold conditions in stock prices.
-- **Moving Averages**: 📈 Use 20-day and 50-day Moving Averages (MA) to analyze stock price trends and potential crossover points.
-- **Synthetic Data**: 🛠️ Generate synthetic stock market data for analysis, providing an end-to-end example with line-by-line explanations.
-
-## **Database And Tools :**
+- **Data Analysis**:📉 Utilized Python libraries (yfinance, pandas, matplotlib, TA-Lib) to analyze historical stock data of top 50 Indian companies.
+- **Technical Indicators**: 📈  Implemented Moving Averages (20-day, 50-day) and RSI (14-day) for trend analysis and trading signals.
+- **Visualization**: 📊  Developed comprehensive plots to visualize stock performance and technical indicators for informed investment decisions.
+## **Database And Tools 🛠️:**
 - Python
 - Pandas
 - Matplotlib
